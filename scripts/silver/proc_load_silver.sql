@@ -7,6 +7,8 @@ Script : proc_load_silver.sql
 Objective: This store procedure clean and transfrom data from bronze layer
 and inserted into silver layer
 
+Example Usage:
+EXEC silver.load_silver
 =======================================================================
 */
 
