@@ -5,4 +5,4 @@ Building a data warehouse with SQL, including the step by step ETL process.
 This Project using Medallion Architecture to build the data warehouse. Thus there layer will be build which are
 *Bronze* , *Silver* and *Gold* Layers. Below is the data flow diagramn for the architecture.
 
-![Project Diagram](docs/data_flow.png)
+![Project Diagram](docs/data_flow.jpg)
